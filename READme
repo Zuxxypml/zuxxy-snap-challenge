@@ -1,0 +1,37 @@
+
+### The challenge
+
+Users should be able to:
+
+- View the relevant dropdown menus on desktop and mobile when interacting with the navigation links
+- View the optimal layout for the content depending on their device's screen size
+- See hover states for all interactive elements on the page
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+### Links
+
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/snap-intro-section-with-dropdown-navigation-made-by-zuxxy-S1XojohN9)
+- Live Site URL: [Netlify](https://snap-challenge.netlify.app)
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [Bootstrap](https://getbootstrap.com/) - UI Framework
+
+
+
+## Author
+
+- Website - [Adebisi Akinade](https://www.github.com/Zuxxypml)
+- Frontend Mentor - [@IAMAGODDAMNHACKER](https://www.frontendmentor.io/profile/IAMAGODDAMNHACKER)
+- Twitter - [@Zuxxypml](https://www.twitter.com/Zuxxypml)
+
+
